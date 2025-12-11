@@ -1,4 +1,4 @@
-## Hey there! 🫠
+## Hey there! 
 
 I'm Dhruv, a software engineer based in Orlando studying at the Burnett Honors College @ UCF.
 
@@ -23,7 +23,6 @@ Contributing to [Knight Hacks](https://github.com/KnightHacks/forge), the offici
 ### Interests 
 - Embedded & low-level programming
 - Systems programming (OS design, compilers, tooling)
-- Hardware hacking & microcontrollers
 - Machine learning & AI experimentation
 - Reinforcement learning, agents, simulation environments
 - Game development & gameplay systems design
