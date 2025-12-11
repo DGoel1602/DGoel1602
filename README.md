@@ -39,7 +39,7 @@ Contributing to [Knight Hacks](https://github.com/KnightHacks/forge), the offici
 <p> <a href="https://www.linkedin.com/in/dhruv-goel-031868322/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /> </a> <a href="mailto:dh814557@ucf.edu"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /> </a> </p>
 
 ### Stats
-<img src="https://nirzak-streak-stats.vercel.app/?user=DGoel1602&theme=dark&hide_border=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=DGoel1602&theme=highcontrast&hide_border=true" />
 
   
 <!--
