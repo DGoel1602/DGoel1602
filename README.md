@@ -11,7 +11,7 @@ I'm Dhruv, a software engineer based in Orlando studying at the Burnett Honors C
 
 <img src="https://github.com/RICO-32.png" alt="RICO-32 Logo" width="70" height="70" align="left" style="margin-right:10px;"/>
 
-Working on [RICO-32](https://github.com/RICO-32/RICO-32), a PICO-8 style fantasy console with Lua embeddings, a custom sprite engine, a game engine, and a custom environment for running and developing retro games!
+Working on [RICO-32](https://github.com/RICO-32/RICO-32), a PICO-8 style fantasy console with Lua embeddings, a custom sprite engine, a game engine, inbuilt terminal, and a custom environment for running and developing retro games!
 The project is written entirely in Rust. It's fully open-source, so feel free to explore, experiment, and contribute!
 
 
